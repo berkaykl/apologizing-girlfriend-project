@@ -1,7 +1,7 @@
 English:
 It is a project made for entertainment purposes only because I am curious about the react-native environment of JavaScript and the experience of mobile application development.
 
-Turkish:
+Türkçe:
 Tamamen JavaScript in react-native ortamını ve mobil uygulama geliştirmenin deneyimini merak ettiğimden dolayı eğlence amaçlı yapılmış bir projedir.
 
 
